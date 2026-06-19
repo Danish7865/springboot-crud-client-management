@@ -182,17 +182,6 @@ Edit
 src/main/resources/application.properties
 ```
 
-Configure
-
-```
-spring.datasource.url=YOUR_DATABASE_URL
-
-spring.datasource.username=YOUR_USERNAME
-
-spring.datasource.password=YOUR_PASSWORD
-```
-
----
 
 # ▶ Build Project
 
@@ -229,6 +218,8 @@ Add screenshots of
 - Add Client
 - Update Client
 - Delete Client
+<img width="550" height="592" alt="PIC" src="https://github.com/user-attachments/assets/6f086467-fe99-43f4-bc1b-80231db67a15" />
+
 
 ---
 
@@ -238,23 +229,6 @@ Add screenshots of
 - Pagination
 - Exception Handling
 - UI Enhancements
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork Repository
-
-2. Create New Branch
-
-3. Commit Changes
-
-4. Push Changes
-
-5. Open Pull Request
-
 ---
 
 # 👨‍💻 Author
